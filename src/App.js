@@ -27,6 +27,7 @@ function App() {
     {punkListData.length > 0 && (
     <>
       <Main punkListData={punkListData} selectedPunk={selectedPunk}/>
+       <h1>This is for testing</h1>
       <PunkList 
         punkListData={punkListData}
         setSelectedPunk={setSelectedPunk}/>
