@@ -6,7 +6,7 @@ import {useState, useEffect} from 'react';
 import PunkList from './components/PunkList';
 import Main from './components/Main';
 
-
+  
 function App() {
 
   const [punkListData, setPunkListData] = useState([]);
