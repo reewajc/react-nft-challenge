@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-nft-challenge/static/css/main.707c9a97.chunk.css",
-    "main.js": "/react-nft-challenge/static/js/main.1016cc2e.chunk.js",
-    "main.js.map": "/react-nft-challenge/static/js/main.1016cc2e.chunk.js.map",
+    "main.js": "/react-nft-challenge/static/js/main.02740ea6.chunk.js",
+    "main.js.map": "/react-nft-challenge/static/js/main.02740ea6.chunk.js.map",
     "runtime-main.js": "/react-nft-challenge/static/js/runtime-main.3f153d1b.js",
     "runtime-main.js.map": "/react-nft-challenge/static/js/runtime-main.3f153d1b.js.map",
     "static/js/2.68530b82.chunk.js": "/react-nft-challenge/static/js/2.68530b82.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.3f153d1b.js",
     "static/js/2.68530b82.chunk.js",
     "static/css/main.707c9a97.chunk.css",
-    "static/js/main.1016cc2e.chunk.js"
+    "static/js/main.02740ea6.chunk.js"
   ]
 }
